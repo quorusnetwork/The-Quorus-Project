@@ -1,1 +1,5 @@
 Github soft limit of 1GB means we need to branch media archives into alternative shared spaces. Mega, Dropbox, Gdrive (prefer not) or p2p magnet torrents with resyncing/file updating are possibility, but whatever it is, it has to be easily accessable and downloadable
+
+https://www.perforce.com/git-hosting
+
+This service can provide git repo's of any size, so maybe this would work?
